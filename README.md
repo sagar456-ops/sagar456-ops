@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gokarna14&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sagar456-op&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokarna14&layout=compact)](https://github.com/gokarna14/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagar456-ops&layout=compact)](https://github.com/sagar456-op/github-readme-stats)
